@@ -8,6 +8,17 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yahoosandbox.com
 
+# AI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,z.ai
+
 # Google Voice
 DOMAIN,stun.l.google.com
 DOMAIN,lens.l.google.com
